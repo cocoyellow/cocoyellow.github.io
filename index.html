@@ -6,7 +6,7 @@
   <link rel="icon" type="image/png" sizes="32x32" href="images/favicon.png">
   <link rel="stylesheet" href="css/styles.css">
   <title>Frontend Mentor | Expenses chart component</title>
-
+ 
   <link rel="preconnect" href="https://fonts.googleapis.com"> 
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin> 
   <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;700&display=swap" rel="stylesheet">
@@ -39,7 +39,8 @@
   <div>
     <p class="boldText darkerGrey">Spending - Last 7 days</p>
   </div>
-  <div class="days grey">
+  <div id="bars" class="days grey">
+    
     mon
     tue
     wed
@@ -47,6 +48,7 @@
     fri
     sat
     sun
+
   </div>
 </section>
 <hr/>
@@ -73,7 +75,14 @@
 </div>
 
 
+<button class="bus">click me</button> 
+<!--
+this button was used to test the calling of the data.json file -->
+
+
 
 
 </body>
+<script src="data.json" type="text/javascript"></script>
+<script src="script.js" type="text/javascript"></script>
 </html>
