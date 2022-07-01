@@ -59,6 +59,6 @@ i learnt about .json files and the use of fetch() api as well as promises. howev
 
 
 -
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/cocoyellow)
-- Twitter - [@yourusername](https://www.twitter.com/weightloss01471)
+- Frontend Mentor - [@cocoyellow](https://www.frontendmentor.io/profile/cocoyellow)
+- Twitter - [@weightloss01471](https://www.twitter.com/weightloss01471)
 
